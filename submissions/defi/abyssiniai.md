@@ -6,7 +6,7 @@ discord_id: "913052693625438248"
 timestamp: "2025-08-28"
 
 ## Developer
-Name: To Be Filled
+Name: Nhan Tran
 GitHub: @abyssiniai
 Discord: ttnhanadp
 Experience: Web3 developer with interest in defi applications and zk integration.
